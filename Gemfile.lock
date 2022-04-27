@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    truong_gf_beauty (0.1.0)
+    truong_gf_beauty (0.1.1)
 
 GEM
   remote: https://rubygems.org/
