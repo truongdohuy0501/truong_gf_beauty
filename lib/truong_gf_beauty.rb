@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require_relative "truong_gf_beauty/version"
-
 class TruongGfBeauty
   def self.proccess
     current_project = `pwd`
